@@ -1,4 +1,4 @@
-# Uploading temperature sensor data in Thing Speak cloud
+# EXP-3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
